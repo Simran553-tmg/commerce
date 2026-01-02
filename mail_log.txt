@@ -1,0 +1,36 @@
+2025-12-17 01:58:31 - mail() returned false for order 3 to 9808385083st@gmail.com
+Subject: Your order verification code
+Message: Your OTP to verify order #3 is: 288770
+Headers: From: no-reply@localhost
+
+
+2025-12-17 02:15:28 - mail() returned false for order 4 to 9808385083st@gmail.com
+Subject: Your order verification code
+Message: Your OTP to verify order #4 is: 286640
+Headers: From: no-reply@localhost
+
+
+2025-12-17 15:58:01 - mail() returned false for order 5 to 9818678996st@gmail.com
+Subject: Your order verification code
+Message: Your OTP to verify order #5 is: 389693
+Headers: From: no-reply@localhost
+
+
+2025-12-18 02:16:20 - mail() returned false for order 6 to 9808385083st@gmail.com
+Subject: Your order verification code
+Message: Your OTP to verify order #6 is: 599469
+Headers: From: no-reply@localhost
+
+
+2025-12-18 02:44:39 - mail() returned false for order 7 to 9808385083st@gmail.com
+Subject: Your order verification code
+Message: Your OTP to verify order #7 is: 345726
+Headers: From: no-reply@localhost
+
+
+2025-12-18 02:57:18 - mail() returned false for order 8 to 9808385083st@gmail.com
+Subject: Your order verification code
+Message: Your OTP to verify order #8 is: 321101
+Headers: From: no-reply@localhost
+
+
